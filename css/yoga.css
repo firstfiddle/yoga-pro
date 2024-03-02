@@ -136,7 +136,7 @@ a.aa:hover{
 
 /* kirtan css start */
 .kr{
-    background: url(https://asmy.org.au/app/uploads/2014/11/Photo-3-12-16-12-23-03-am.jpg);
+    background: url(/image/kr.jpg);
     width: 100%;
     height: 550px;
     background-size: cover;
@@ -144,7 +144,7 @@ a.aa:hover{
     margin-top: 3rem;
 }
 .cc{
-    background: url(https://asmy.org.au/app/uploads/2019/01/ASMY-Website10-795x455.png);
+    background: url(/image/cc.png);
     width: 100%;
     height: 400px;
     background-size: cover;
